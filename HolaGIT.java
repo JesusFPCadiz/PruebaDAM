@@ -3,5 +3,6 @@ public class HolaGIT{
 		System.out.println("Hola, usando GIT");		
 		System.out.println("Modificacion");
 		System.out.println("Otra modificacion");
+		System.out.println("Push de nuevos cambios");
 	}
 }
